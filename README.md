@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hirun Kolongahapitiya</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=900&color=43F700&center=true&vCenter=true&random=false&width=435&lines=I+am+Hirun+Kolongahapitiya;Student+Of+Uva+Wellassa+University;I+am+Working+as;Web+Developer;Software+Developer;App+developer;UI+Designer;Graphic+Designer;Article+Writer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=900&color=43F700&center=true&vCenter=true&random=false&width=435&lines=I+am+Hirun+Kolongahapitiya;Student+Of+Uva+Wellassa+University;I+am+Working+as; AI+Developer;Web+Developer;Software+Developer;App+developer;Article+Writer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Header -->
