@@ -22,7 +22,7 @@ Feel free to ask me anything!</p><br>
 
 <!-- Contact Information -->
 <p align="center">📫 <strong>You can reach me via email: </strong><br>
-<a href="mailto:isurukumara07194@gmail.com"><span style="color: #43f700;">isurukumara07194@gmail.com</span></a>.</p>
+<a href="mailto:isurukumara07194@gmail.com"><span style="color: #43f700;">hirunkolongahapitiya@gmail.com</span></a>.</p>
 
 <!-- Medium Articles -->
 <p align="center">📝 I share insights and knowledge through my weekly articles about new technolgies and Tech Trends on <a href="https://hiruntechub.me"> <br><span style="color: #43f700;">Hiru Techub</span></a>.</p>
