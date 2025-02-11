@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hirun Kolongahapitiya</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=900&color=43F700&center=true&vCenter=true&random=false&width=435&lines=I+am+Hirun+Kolongahapitiya;Student+Of+Uva+Wellassa+University;I+am+Working+as; AI+Developer;Web+Developer;Software+Developer;App+developer;Article+Writer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=900&color=43F700&center=true&vCenter=true&random=false&width=435&lines=I+am+Hirun+Kolongahapitiya;I+am+Working+as; AI+Developer;Web+Developer;Software+Developer;App+developer;Article+Writer" alt="Typing SVG" /></a>
 </p>
 
 <!-- Header -->
-<h3 align="center">Passionate Web & App Developer from Sri Lanka</h3>
+<h3 align="center">Passionate AI & Software Developer from Sri Lanka</h3>
 
 <!-- Introduction -->
 <p align="center">👋 Hey there! I'm Hirun Kolongahapitiya, a dedicated developer hailing from Sri Lanka with a passion for Programming, Web and App Development, and Graphic Designing.</p><br>
